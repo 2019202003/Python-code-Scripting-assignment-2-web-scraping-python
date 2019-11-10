@@ -1,0 +1,114 @@
+Team: Kings XI Punjab
+
+Player 1
+Name : Mohammad Kaif
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 2
+Name : Pankaj Singh
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 3
+Name : Wasim Jaffer
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 4
+Name : Murali Vijay
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 5
+Name : Ramesh Powar
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 6
+Name : Subramaniam Badrinath
+Country : India
+Ability : Batsman
+Fees : 600000
+
+
+Player 7
+Name : Parthiv Patel
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 8
+Name : Shardul Thakur
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 9
+Name : Sameer Dighe
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 10
+Name : Khaleel Ahmed
+Country : India
+Ability : Bowler
+Fees : 50000
+
+Player 11
+Name : Ravindra Jadeja
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 12
+Name : Abey Kuruvilla
+Country : India
+Ability : Bowler
+Fees : 400000
+
+
+Player 13
+Name : Hanuma Vihari
+Country : India
+Ability : Wicket Keeper
+Fees : 100000
+
+Player 14
+Name : Naman Ojha
+Country : India
+Ability : Wicket Keeper
+Fees : 600000
+
+
+Player 15
+Name : Shakib Al Hasan
+Country Bangladesh
+Ability : All-Rounder
+Fees : 800000
+
+Player 16
+Name : Calum MacLeod
+Country Scotland
+Ability : All-Rounder
+Fees : 500000
+
+Player 17
+Name : Paul Stirling
+Country Ireland
+Ability : All-Rounder
+Fees : 800000
+
+Player 18
+Name : Chamu Chibhabha
+Country Zimbabwe
+Ability : All-Rounder
+Fees : 300000
+
+

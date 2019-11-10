@@ -1,0 +1,114 @@
+Team: Delhi Capitals
+
+Player 1
+Name : V. R. V. Singh
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 2
+Name : Rahul Sanghvi
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 3
+Name : Manish Pandey
+Country : India
+Ability : Batsman
+Fees : 300000
+
+Player 4
+Name : Bhuvneshwar Kumar
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 5
+Name : Sairaj Bahutule
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 6
+Name : Nayan Mongia
+Country : India
+Ability : Batsman
+Fees : 600000
+
+
+Player 7
+Name : Abhimanyu Mithun
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 8
+Name : Virender Sehwag
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 9
+Name : Washington Sundar
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 10
+Name : M. Venkataramana
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 11
+Name : Gursharan Singh
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 12
+Name : Ajit Agarkar
+Country : India
+Ability : Bowler
+Fees : 100000
+
+
+Player 13
+Name : Venkatesh Prasad
+Country : India
+Ability : Wicket Keeper
+Fees : 500000
+
+Player 14
+Name : MS Dhoni
+Country : India
+Ability : Wicket Keeper
+Fees : 800000
+
+
+Player 15
+Name : Keemo Paul
+Country West Indies
+Ability : All-Rounder
+Fees : 600000
+
+Player 16
+Name : Shoaib Malik
+Country Pakistan
+Ability : All-Rounder
+Fees : 700000
+
+Player 17
+Name : Mahedi Hasan
+Country Bangladesh
+Ability : All-Rounder
+Fees : 50000
+
+Player 18
+Name : Mahmudullah
+Country Bangladesh
+Ability : All-Rounder
+Fees : 800000
+
+

@@ -1,0 +1,114 @@
+Team: Sunrisers Hyderabad
+
+Player 1
+Name : Hrishikesh Kanitkar
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 2
+Name : Vijay Yadav
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 3
+Name : Paras Mhambrey
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 4
+Name : Sanjay Manjrekar
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 5
+Name : Yuvraj Singh
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 6
+Name : Sunil Joshi
+Country : India
+Ability : Batsman
+Fees : 400000
+
+
+Player 7
+Name : Murali Kartik
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 8
+Name : Ajay Jadeja
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 9
+Name : Kuldeep Yadav
+Country : India
+Ability : Bowler
+Fees : 700000
+
+Player 10
+Name : Pravin Amre
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 11
+Name : Rajesh Chauhan
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 12
+Name : Venkatapathy Raju
+Country : India
+Ability : Bowler
+Fees : 400000
+
+
+Player 13
+Name : Ambati Raydu
+Country : India
+Ability : Wicket Keeper
+Fees : 400000
+
+Player 14
+Name : Praveen Kumar
+Country : India
+Ability : Wicket Keeper
+Fees : 600000
+
+
+Player 15
+Name : Kevin O'Brien
+Country Ireland
+Ability : All-Rounder
+Fees : 800000
+
+Player 16
+Name : Michael Leask
+Country Scotland
+Ability : All-Rounder
+Fees : 200000
+
+Player 17
+Name : Chris Gayle
+Country West Indies
+Ability : All-Rounder
+Fees : 500000
+
+Player 18
+Name : Thisara Perera
+Country Sri Lanka
+Ability : All-Rounder
+Fees : 800000
+
+

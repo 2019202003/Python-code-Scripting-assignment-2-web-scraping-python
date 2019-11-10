@@ -1,0 +1,118 @@
+Team: Royal Challengers Bangalore
+
+Player 1
+Name : Woorkeri Raman
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 2
+Name : Dodda Ganesh
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 3
+Name : Sarandeep Singh
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 4
+Name : Sanjeev Sharma
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 5
+Name : Sadagoppan Ramesh
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 6
+Name : Aakash Chopra
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 7
+Name : R. P. Singh
+Country : India
+Ability : Batsman
+Fees : 400000
+
+
+Player 8
+Name : Karim Janat
+Country Afghanistan
+Ability : Bowler
+Fees : 300000
+
+Player 9
+Name : Beuran Hendricks
+Country South Africa
+Ability : Bowler
+Fees : 300000
+
+Player 10
+Name : Safyaan Sharif
+Country Scotland
+Ability : Bowler
+Fees : 400000
+
+Player 11
+Name : Paul van Meekeren
+Country Netherlands
+Ability : Bowler
+Fees : 500000
+
+Player 12
+Name : George Dockrell
+Country Ireland
+Ability : Bowler
+Fees : 500000
+
+Player 13
+Name : Shadab Khan
+Country Pakistan
+Ability : Bowler
+Fees : 800000
+
+
+Player 14
+Name : Rishabh Pant
+Country : India
+Ability : Wicket Keeper
+Fees : 500000
+
+
+Player 15
+Name : Aashish Kapoor
+Country : India
+Ability : All-Rounder
+Fees : 100000
+
+
+Player 16
+Name : Robin Singh, Jr.
+Country : India
+Ability : All-Rounder
+Fees : 500000
+
+
+Player 17
+Name : Ajay Sharma
+Country : India
+Ability : All-Rounder
+Fees : 600000
+
+
+Player 18
+Name : Tinu Yohannan
+Country : India
+Ability : All-Rounder
+Fees : 100000
+
+
+

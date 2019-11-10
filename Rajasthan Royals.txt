@@ -1,0 +1,118 @@
+Team: Rajasthan Royals
+
+Player 1
+Name : Vinay Kumar
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 2
+Name : Vikram Rathour
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 3
+Name : Vinod Kambli
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 4
+Name : Ishant Sharma
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 5
+Name : Ravichandran Ashwin
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 6
+Name : Vijay Bharadwaj
+Country : India
+Ability : Batsman
+Fees : 100000
+
+Player 7
+Name : Irfan Pathan
+Country : India
+Ability : Batsman
+Fees : 100000
+
+
+Player 8
+Name : Dawlat Zadran
+Country Afghanistan
+Ability : Bowler
+Fees : 50000
+
+Player 9
+Name : S. Sreesanth
+Country : India
+Ability : Bowler
+Fees : 100000
+
+Player 10
+Name : Adil Rashid
+Country England
+Ability : Bowler
+Fees : 800000
+
+Player 11
+Name : David Willey
+Country England
+Ability : Bowler
+Fees : 700000
+
+Player 12
+Name : Sunil Narine
+Country West Indies
+Ability : Bowler
+Fees : 500000
+
+Player 13
+Name : Pat Cummins
+Country Australia
+Ability : Bowler
+Fees : 200000
+
+
+Player 14
+Name : Robin Uthappa
+Country : India
+Ability : Wicket Keeper
+Fees : 400000
+
+
+Player 15
+Name : Shiv Sunder Das
+Country : India
+Ability : All-Rounder
+Fees : 500000
+
+
+Player 16
+Name : Sachin Tendulkar
+Country : India
+Ability : All-Rounder
+Fees : 500000
+
+
+Player 17
+Name : Debashish Mohanty
+Country : India
+Ability : All-Rounder
+Fees : 500000
+
+
+Player 18
+Name : Amit Mishra
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+
+

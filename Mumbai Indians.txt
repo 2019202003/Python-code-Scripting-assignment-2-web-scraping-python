@@ -1,0 +1,118 @@
+Team: Mumbai Indians
+
+Player 1
+Name : Harvinder Singh
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 2
+Name : Quinton de Kock
+Country South Africa
+Ability : Batsman
+Fees : 600000
+
+Player 3
+Name : Cheteshwar Pujara
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 4
+Name : Kevin O
+Country Ireland
+Ability : Batsman
+Fees : 500000
+
+Player 5
+Name : Saba Karim
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 6
+Name : Martin Guptill
+Country New Zealand
+Ability : Batsman
+Fees : 700000
+
+
+Player 7
+Name : Kyle Jarvis
+Country Zimbabwe
+Ability : Bowler
+Fees : 200000
+
+Player 8
+Name : Devang Gandhi
+Country : India
+Ability : Bowler
+Fees : 500000
+
+Player 9
+Name : Lasith Malinga
+Country Sri Lanka
+Ability : Bowler
+Fees : 600000
+
+Player 10
+Name : Mohammed Shami
+Country : India
+Ability : Bowler
+Fees : 400000
+
+Player 11
+Name : Marcus Stoinis
+Country Australia
+Ability : Bowler
+Fees : 50000
+
+Player 12
+Name : Wanindu Hasaranga
+Country Sri Lanka
+Ability : Bowler
+Fees : 200000
+
+
+Player 13
+Name : Shahbaz Nadeem
+Country : India
+Ability : Wicket Keeper
+Fees : 500000
+
+Player 14
+Name : Jaydev Unadkat
+Country : India
+Ability : Wicket Keeper
+Fees : 100000
+
+
+Player 15
+Name : Iqbal Siddiqui
+Country : India
+Ability : All-Rounder
+Fees : 600000
+
+
+Player 16
+Name : Stuart Binny
+Country : India
+Ability : All-Rounder
+Fees : 600000
+
+
+Player 17
+Name : David Johnson
+Country : India
+Ability : All-Rounder
+Fees : 600000
+
+
+Player 18
+Name : Atul Wassan
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+
+

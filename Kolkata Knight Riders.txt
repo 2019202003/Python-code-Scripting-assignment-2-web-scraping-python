@@ -1,0 +1,118 @@
+Team: Kolkata Knight Riders
+
+Player 1
+Name : Ajinkya Rahane
+Country : India
+Ability : Batsman
+Fees : 400000
+
+Player 2
+Name : Virat Kohli
+Country : India
+Ability : Batsman
+Fees : 800000
+
+Player 3
+Name : Shikhar Dhawan
+Country : India
+Ability : Batsman
+Fees : 700000
+
+Player 4
+Name : Zaheer Khan
+Country : India
+Ability : Batsman
+Fees : 500000
+
+Player 5
+Name : Varun Aaron
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 6
+Name : Robin Singh
+Country : India
+Ability : Batsman
+Fees : 600000
+
+Player 7
+Name : Narendra Hirwani
+Country : India
+Ability : Batsman
+Fees : 400000
+
+
+Player 8
+Name : Jayant Yadav
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 9
+Name : Nilesh Kulkarni
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 10
+Name : Harbhajan Singh
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 11
+Name : Rahul Dravid
+Country : India
+Ability : Bowler
+Fees : 600000
+
+Player 12
+Name : Yuzvendra Chahal
+Country : India
+Ability : Bowler
+Fees : 500000
+
+
+Player 13
+Name : Mark Boucher
+Country South Africa
+Ability : Wicket Keeper
+Fees : 600000
+
+Player 14
+Name : AB de Villiers
+Country South Africa
+Ability : Wicket Keeper
+Fees : 700000
+
+
+Player 15
+Name : Vijay Shankar
+Country : India
+Ability : All-Rounder
+Fees : 100000
+
+
+Player 16
+Name : MSK Prasad
+Country : India
+Ability : All-Rounder
+Fees : 100000
+
+
+Player 17
+Name : Abhinav Mukund
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+
+Player 18
+Name : Nikhil Chopra
+Country : India
+Ability : All-Rounder
+Fees : 400000
+
+
+
